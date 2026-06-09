@@ -6,7 +6,7 @@ It consists of the wave tracing tool itself and accompanying functions for file 
 ## Setup
 SOLERwave requires a Python installation of 3.10 or newer. 
 
-Further required packeges are
+Further required packages are
 
 * jupyter 1.1.1
 * numpy 2.2.3
