@@ -711,7 +711,6 @@ def peak_finding_algorithm(intensity_mean,
 
     from sunpy.time import parse_time
     from scipy.optimize import curve_fit
-    from lmfit.models import GaussianModel, SkewedGaussianModel
 
     def gaussian(x, A, x0, sigma1):#,sigma2):
         #return np.where(x <= x0,
