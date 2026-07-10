@@ -1,3 +1,5 @@
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20644556-blue)](https://doi.org/10.5281/zenodo.20644556)
+
 # SOLERwave
 
 SOLERwave is a python tool developed to facilitate the investigation of large-scale coronal waves and Moreton waves.
